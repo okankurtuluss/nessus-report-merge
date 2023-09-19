@@ -1,4 +1,4 @@
-# nessus-report-merge
+# nessus-scan-merge
 You can combine multiple Nessus reports into a single file.
 
 
